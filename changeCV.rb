@@ -1,3 +1,6 @@
+#code that search for pattern and replace it in 
+#word document
+
 module ChangeDoc
  require 'win32ole' 
    def self.changeLetter(filename, newCompanyName)
