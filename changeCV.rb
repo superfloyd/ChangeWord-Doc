@@ -1,5 +1,8 @@
 #code that search for pattern and replace it in 
 #word document
+# david 
+
+
 
 module ChangeDoc
  require 'win32ole' 
